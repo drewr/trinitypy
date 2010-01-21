@@ -1,0 +1,41 @@
+body {
+  font-family:Georgia, 'Times New Roman', Times, Serif;
+}
+
+div {
+  /* border:1px solid lightgrey; */
+}
+
+#header {
+  height:53px;
+  background-color:grey;
+}
+
+#header a {
+  display:block;
+  height:50px;
+  width:100px;
+  border:1px solid darkgrey;
+}
+
+#footer {
+  border-top:1px solid grey;
+}
+
+#footer li {
+  display:inline;
+  margin:0 auto;
+  margin-right:15px;
+}
+
+.spacer {
+  height:40px;
+}
+
+.sidebar {
+}
+
+.article p {
+  font-size:1.2em;
+  line-height:1.8em;
+}
