@@ -1,0 +1,65 @@
+body {
+  font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+}
+
+a {
+  text-decoration:none;
+  color:#E6A100;
+}
+
+a:hover {
+  text-decoration:underline;
+}
+
+input {
+  font-weight:bold;
+  border:4px solid white;
+  padding:3px;
+  font-size:1.5em;
+  -moz-border-radius:4px;
+  -webkit-border-radius:4px;
+  color:#4D82FF;
+}
+
+label {
+  display:block;
+  text-align:right;
+  font-size:1.5em;
+  margin-right:10px;
+  color:#E6A100;
+}
+
+#formwrap {
+  margin:0 auto;
+  text-align:center;
+  padding:30px;
+  width:500px;
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  background-color:#FFEEC7;
+}
+
+form {
+  margin-left:50px;
+}
+
+#signupsubmit {
+  color:white;
+  background-color:#E6A100;
+}
+
+#blurb h1 {
+  color:#444;
+}
+
+#blurb p {
+  font-size: 11px;
+}
+
+#footer {
+  text-align:center;
+  width:500px;
+  margin:0 auto;
+  margin-top:5px;
+  font-size:0.8em;
+}
