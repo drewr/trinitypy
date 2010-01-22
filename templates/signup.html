@@ -6,6 +6,8 @@
 <link rel="stylesheet" href="../static/css/text.css" />
 <link rel="stylesheet" href="../static/css/960.css" />
 <link rel="stylesheet" href="../static/css/signup.css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" src="../static/js/signup.js"></script>
 </head>
 <body>
 
@@ -26,7 +28,7 @@ information, please sign up below.
 </p>
 </div>
 
-<form action="" autocomplete="off">
+<form id="signupform" action="" autocomplete="off">
 <table>
 <tr>
 <td class="label"><label id="lfirstname" for="firstname">First Name</label></td>
@@ -49,8 +51,9 @@ information, please sign up below.
 <input id="signupsubmit" name="signup" type="submit" value="Sign Up" />
 </tr>
 </table>
-
 </form>
+<div id="thinking"><img src="../static/img/thinking.gif" /></div>
+<div id="message"></div>
 </div>
 
 </div>
