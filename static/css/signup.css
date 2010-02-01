@@ -74,3 +74,10 @@ form {
   -webkit-border-radius:10px;
 }
 
+.status {
+  vertical-align:middle;
+}
+
+.status img {
+  margin-left:4px;
+}
