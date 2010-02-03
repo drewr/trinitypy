@@ -5,19 +5,29 @@ var img = function(where, id) {
 SIGNUP = Object();
 SIGNUP.validatable = "#email, #firstname, #lastname";
 SIGNUP.validators = Object();
+SIGNUP.url = Object();
+SIGNUP.url.subscribe = "/mail/subscribe";
 
 SIGNUP.email_pattern =
   /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
 
-SIGNUP.do_get = function(form){
+SIGNUP.do_post = function(form){
   var q = $(form).serialize();
+  var resp;
   console.debug($("#firstname").val());
   console.debug($("#lastname").val());
   console.debug($("#email").val());
 
-  $.get("../tmp/foo.html?"+q, function(payload){
-    console.debug(payload);
-  });
+  $.post(SIGNUP.url.subscribe, q,
+         function(payload, stat, req){
+           console.debug(payload, stat);
+           resp = payload;
+         }, "json");
+  return false;
+  if (resp.result == "success") {
+    return true;
+  }
+  return false;
 
 };
 
@@ -103,12 +113,18 @@ SIGNUP.submit = function(e) {
   SIGNUP.clear_alerts();
   if (SIGNUP.any_invalid()) {
     SIGNUP.message("We found some problems.  Please fix your submission.");
-  } else {
-    SIGNUP.start_thinking();
-    SIGNUP.do_get(this);
+    return false;
+  }
+
+  SIGNUP.start_thinking();
+  var success = SIGNUP.do_post(this);
+  SIGNUP.stop_thinking();
+
+  if (success) {
     SIGNUP.message("Done!  Would you like to <a href=\"\">add another</a>?");
-    SIGNUP.stop_thinking();
     SIGNUP.hide_button();
+  } else {
+    SIGNUP.message("The network had a problem.  Resubmit.");
   }
 
   console.debug("form submitted");
