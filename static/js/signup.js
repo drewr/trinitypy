@@ -13,13 +13,10 @@ SIGNUP.email_pattern =
   /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
 
 SIGNUP.do_post = function(form){
-  var q = $(form).serialize();
-  var resp;
-
   $.ajax({
            type: "post",
            url: SIGNUP.url.subscribe,
-           data: q,
+           data: $(form).serialize(),
            success: function(payload, stat, req){
              console.debug(payload, stat);
              var success = payload.result == "success";
