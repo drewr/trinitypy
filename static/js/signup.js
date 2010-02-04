@@ -7,6 +7,7 @@ SIGNUP.validatable = "#email, #firstname, #lastname";
 SIGNUP.validators = Object();
 SIGNUP.url = Object();
 SIGNUP.url.subscribe = "/mail/subscribe";
+SIGNUP.url.alert_gif = "img/alert.gif";
 
 SIGNUP.email_pattern =
   /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
@@ -14,32 +15,36 @@ SIGNUP.email_pattern =
 SIGNUP.do_post = function(form){
   var q = $(form).serialize();
   var resp;
-  console.debug($("#firstname").val());
-  console.debug($("#lastname").val());
-  console.debug($("#email").val());
 
-  $.post(SIGNUP.url.subscribe, q,
-         function(payload, stat, req){
-           console.debug(payload, stat);
-           resp = payload;
-         }, "json");
-  return false;
-  if (resp.result == "success") {
-    return true;
-  }
-  return false;
-
+  $.ajax({
+           type: "post",
+           url: SIGNUP.url.subscribe,
+           data: q,
+           success: function(payload, stat, req){
+             console.debug(payload, stat);
+             var success = payload.result == "success";
+             if (success) {
+               SIGNUP.hide_button();
+               SIGNUP.message("Done!  Would you like to <a href=\"\">add another</a>?");
+             }
+           },
+           error: function(e){
+             console.debug("error");
+             SIGNUP.message("The network had a problem.  Try again.");
+           }
+         });
 };
 
-SIGNUP.sleep = function(delay) {
-};
-
-SIGNUP.start_thinking = function() {
-  $("#thinking").show();
-};
-
-SIGNUP.stop_thinking = function() {
+SIGNUP.setup_thinking = function() {
   $("#thinking").hide();
+  $("#thinking").
+    ajaxStart(function(){
+                $(this).show();
+              });
+  $("#thinking").
+    ajaxStop(function(){
+                $(this).hide();
+              });
 };
 
 SIGNUP.hide_message = function() {
@@ -57,14 +62,13 @@ SIGNUP.message = function(markup) {
 
 SIGNUP.alert = function(field) {
   var id = "#" + field + "_status";
-  $(id).html(img("../static/img/alert.gif"));
+  $(id).html(img(SIGNUP.url.alert_gif));
 };
 
 SIGNUP.clear_alerts = function() {
   $(SIGNUP.validatable).
     each(function(idx, el){
            var id = "#" + el.id + "_status";
-           console.debug(id);
            $(id).html("");
          });
 };
@@ -78,7 +82,6 @@ SIGNUP.validators.lastname = function(val) {
 };
 
 SIGNUP.validators.email = function(val) {
-  console.debug("testing email " + val + ": " + SIGNUP.email_pattern.test(val));
   return SIGNUP.email_pattern.test(val);
 };
 
@@ -87,7 +90,6 @@ SIGNUP.validate = function(idx, el) {
   var vald = SIGNUP.validators[that.id];
   var res = false;
   if (vald) {
-    console.debug("validating \"" + that.id + "\"");
     // if valid, return false!
     res = SIGNUP.validators[that.id]($(that).val()) ? false : that.id;
   }
@@ -97,7 +99,6 @@ SIGNUP.validate = function(idx, el) {
 
 SIGNUP.any_invalid = function() {
   var res = $(SIGNUP.validatable).filter(SIGNUP.validate);
-  console.debug(res);
   if (res.length == 0) {
     return false;
   }
@@ -116,28 +117,16 @@ SIGNUP.submit = function(e) {
     return false;
   }
 
-  SIGNUP.start_thinking();
-  var success = SIGNUP.do_post(this);
-  SIGNUP.stop_thinking();
-
-  if (success) {
-    SIGNUP.message("Done!  Would you like to <a href=\"\">add another</a>?");
-    SIGNUP.hide_button();
-  } else {
-    SIGNUP.message("The network had a problem.  Resubmit.");
-  }
-
+  SIGNUP.do_post(this);
   console.debug("form submitted");
   return false;
 };
 
 SIGNUP.init = function() {
+  console.debug("SIGNUP loaded");
   SIGNUP.hide_message();
-  SIGNUP.stop_thinking();
+  SIGNUP.setup_thinking();
   $("#signupform").submit(SIGNUP.submit);
 };
 
-$(document).ready(function(){
-  console.debug("JS loaded");
-  SIGNUP.init();
-});
+$(document).ready(SIGNUP.init);
