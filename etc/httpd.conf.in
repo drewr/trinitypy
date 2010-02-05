@@ -1,4 +1,4 @@
-<VirtualHost *:80>
+<VirtualHost *:8080>
    ServerAdmin _ADMINEMAIL_
    ServerName _VHOST_
    ServerAlias _VHOST2_
