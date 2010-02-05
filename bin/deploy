@@ -1,0 +1,24 @@
+#!/bin/sh
+
+ENV=$1
+
+d=$(bin/bundle)
+
+(
+
+  cd $d
+
+  for i in $(find . -name \*.in); do
+    o=$(echo $i | sed -e 's,.in$,,')
+    echo "installing $o"
+    m4 etc/env/$ENV.m4 - < $i > $o
+  done
+
+  sh bin/install
+
+)
+
+if [ ! $? ]; then
+  echo "removing $d"
+  rm -rf $d
+fi

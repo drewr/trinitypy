@@ -1,0 +1,42 @@
+#!/bin/bash
+
+COMMIT=$1; [ -z $COMMIT ] && COMMIT=$(git rev-parse HEAD)
+TIME=$(date +%Y-%m-%d-%H:%M:%S)
+TMP=$(mktemp -d -t _deploy)
+REFLOG=tmp/refs.log
+DEPENDENCIES=etc/dependencies
+
+function error {
+  echo "error: $1" >&2
+  exit 1
+}
+
+if [ ! -d `dirname $REFLOG` ]; then
+  mkdir -p `dirname $REFLOG`
+fi
+
+if [ -f $DEPENDENCIES ]; then
+  while read line; do
+    name=${line% *}
+    path=$(sh -c "cd ${line#* }; pwd")
+
+    if [ -z $path ] || [ ! -d $path ]; then
+      error "dependency $name has invalid path: $path"
+    fi
+
+    rev=$(cd $path; git rev-parse HEAD)
+    to=$TMP/$name
+    mkdir -p $to
+
+    echo $rev $TIME $path >> $REFLOG
+    echo "bundle: bundling dependency $name" >&2
+    ( cd $path; git archive --format tar $rev ) \
+      | ( cd $to; tar xf - )
+  done < $DEPENDENCIES
+fi
+
+echo "bundle: bundling final archive in $TMP" >&2
+git archive --format tar $COMMIT \
+  | ( cd $TMP; tar xf - )
+
+echo -n $TMP
