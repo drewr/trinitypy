@@ -6,7 +6,7 @@ SIGNUP = Object();
 SIGNUP.validatable = "#email, #firstname, #lastname";
 SIGNUP.validators = Object();
 SIGNUP.url = Object();
-SIGNUP.url.subscribe = "/mail/subscribe";
+SIGNUP.url.subscribe = "/cm/subscribe/";
 SIGNUP.url.alert_gif = "img/alert.gif";
 
 SIGNUP.email_pattern =
@@ -19,10 +19,11 @@ SIGNUP.do_post = function(form){
            data: $(form).serialize(),
            success: function(payload, stat, req){
              console.debug(payload, stat);
-             var success = payload.result == "success";
-             if (success) {
+             if (payload.result == "success") {
                SIGNUP.hide_button();
                SIGNUP.message("Done!  Would you like to <a href=\"\">add another</a>?");
+             } else {
+               SIGNUP.message("Something went wrong.  Try again.");
              }
            },
            error: function(e){

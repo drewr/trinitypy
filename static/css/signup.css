@@ -11,6 +11,10 @@ a:hover {
   text-decoration:underline;
 }
 
+#signupform td {
+  padding:3px;
+}
+
 input {
   font-weight:bold;
   border:4px solid white;
