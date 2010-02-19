@@ -33,6 +33,7 @@
 
    RewriteEngine On
    RewriteCond %{HTTP_HOST} www._VHOST_ [OR]
-   RewriteCond %{HTTP_HOST} trinitynashville.org
+   RewriteCond %{HTTP_HOST} trinitynashville.org [OR]
+   RewriteCond %{HTTP_HOST} trinity.tc
    RewriteRule ^/(.*)$  http://_VHOST_/$1 [R,L]
 </VirtualHost>
