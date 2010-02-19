@@ -7,5 +7,7 @@ tar cf - . | pv | \
     tar xf - -m \; \
     rm -f _CURRENT_ \; \
     ln -s _RELEASEROOT_ _CURRENT_ \; \
-    ln -s _DJANGOROOT_ _CURRENT_
+    ln -s _DJANGOROOT_ _CURRENT_ \; \
+    sudo /etc/init.d/apache2 restart
+
 
