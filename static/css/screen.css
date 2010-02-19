@@ -1,41 +1,23 @@
 body {
   font-family:Georgia, 'Times New Roman', Times, Serif;
+  font-size:15px;
 }
 
-div {
-  /* border:1px solid lightgrey; */
+#content {
+  width:700px;
+  border:1px solid lightgrey;
+  padding:25px;
 }
 
-#header {
-  height:53px;
-  background-color:grey;
+#map a {
+  font-size:0.7em;
 }
 
-#header a {
-  display:block;
-  height:50px;
-  width:100px;
-  border:1px solid darkgrey;
+#title {
+  padding-left:25px;
 }
 
 #footer {
-  border-top:1px solid grey;
+  padding-left:25px;
 }
 
-#footer li {
-  display:inline;
-  margin:0 auto;
-  margin-right:15px;
-}
-
-.spacer {
-  height:40px;
-}
-
-.sidebar {
-}
-
-.article p {
-  font-size:1.2em;
-  line-height:1.8em;
-}
