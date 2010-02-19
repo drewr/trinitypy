@@ -1,0 +1,6 @@
+from __settings__ import *
+
+DEBUG = False
+
+DATABASE_ENGINE = "sqlite3"
+DATABASE_NAME = "_DATABASE_NAME_"
