@@ -1,1 +1,8 @@
-/tmp
+/tmp/*
+.DS_Store
+*.pyc
+*~
+*.sqlite
+*.db
+/run
+/settings.py
