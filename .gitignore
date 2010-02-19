@@ -6,3 +6,4 @@
 *.db
 /run
 /settings.py
+/django
