@@ -32,6 +32,7 @@
    AliasMatch ^/(.*\.(ico|jpg|gif|png|js|css|txt|php|pdf|wma|mp3))$ _DOCUMENTROOT_/$1
 
    RewriteEngine On
-   RewriteCond %{HTTP_HOST} www._VHOST_
+   RewriteCond %{HTTP_HOST} www._VHOST_ [OR]
+   RewriteCond %{HTTP_HOST} trinitynashville.org
    RewriteRule ^/(.*)$  http://_VHOST_/$1 [R,L]
 </VirtualHost>
