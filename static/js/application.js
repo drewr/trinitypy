@@ -36,6 +36,13 @@ TRINITY.init = function() {
              }
            });
 
+  $("#email")
+    .blur(function(){
+            if ($(this).val().trim() == "") {
+              $(this).val(TRINITY.defaults.email);
+            }
+          });
+
   $("#signup").submit(TRINITY.signup.submit);
 };
 
