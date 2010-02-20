@@ -12,11 +12,15 @@ TRINITY.signup.do_post = function(form) {
            data: $(form).serialize(),
            success: function(payload, stat, req){
              console.debug(payload, stat);
-             $("#email").replaceWith("<em>Thanks " + payload.email + "!</em>");
+             $("#email").replaceWith("<div id=\"response\">" +
+                                     "<em>Thanks.  We'll be in touch! " +
+                                     "<a href=\"\">Add another?</a></em></div>");
            },
            error: function(e){
              console.debug("error", e);
-             $("#email").replaceWith("<em>Invalid email perhaps? <a href=\"\">Try again</a>.</em>");
+             $("#email")
+               .replaceWith("<div id=\"response\">" +
+                            "<em>Invalid email address? <a href=\"\">Try again</a>.</em></div>");
            }
          });
 };
@@ -32,18 +36,18 @@ TRINITY.init = function() {
   $("#email")
     .focus(function(){
              if (TRINITY.defaults.email == $(this).val()) {
-               $(this).val("");
+               $(this).css("text-align", "left").val("");
              }
            });
 
   $("#email")
     .blur(function(){
             if ($(this).val().trim() == "") {
-              $(this).val(TRINITY.defaults.email);
+              $(this).css("text-align", "right").val(TRINITY.defaults.email);
             }
           });
 
-  $("#signup").submit(TRINITY.signup.submit);
+  $("#signup form").submit(TRINITY.signup.submit);
 };
 
 $(document).ready(TRINITY.init);
