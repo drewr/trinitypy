@@ -21,3 +21,12 @@ body {
   padding-left:25px;
 }
 
+#footer input {
+  border:1px solid lightgrey;
+  font-style:oblique;
+  font-family:Georgia, 'Times New Roman', Times, Serif;
+  font-size:13px;
+  padding:3px;
+  padding-left:7px;
+  width:330px;
+}

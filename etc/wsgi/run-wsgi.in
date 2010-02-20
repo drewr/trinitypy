@@ -1,5 +1,6 @@
 import os, sys
 sys.path.append('_CURRENT_')
+sys.path.append('_CURRENT_/lib')
 os.environ['DJANGO_SETTINGS_MODULE'] = 'settings'
 
 import django.core.handlers.wsgi
