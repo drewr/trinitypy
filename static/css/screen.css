@@ -3,10 +3,8 @@ body {
   font-size:15px;
 }
 
-#content {
-  width:700px;
-  border:1px solid lightgrey;
-  padding:25px;
+#map {
+  margin:10px 0 20px 0;
 }
 
 #map a {
@@ -14,44 +12,29 @@ body {
 }
 
 #title {
-  padding-left:25px;
-  position:relative;
-}
-
-#title h1 {
-  display:block;
-}
-
-#footer {
-  padding-left:25px;
-}
-
-#footer table {
-  width:700px;
-}
-
-#signup {
-  position:absolute;
-  left:423px;
-  top:6px;
 }
 
 #response {
-  position:absolute;
-  top:4px;
-  right:-306px;
-  width:300px;
+  margin-top:9px;
   text-align:right;
 }
 
 #signup input {
+  margin-top:7px;
   border:1px solid lightgrey;
   font-style:oblique;
   font-family:Georgia, 'Times New Roman', Times, Serif;
   font-size:13px;
   padding:3px;
   padding-left:10px;
-  width:300px;
+  width:280px;
+  text-align:right;
+}
+
+#footer {
+}
+
+.infoemail {
   text-align:right;
 }
 
