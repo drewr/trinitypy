@@ -5,19 +5,16 @@ TRINITY.url = Object();
 TRINITY.url.subscribe = "/cm/subscribe/";
 
 TRINITY.signup.do_post = function(form) {
-  console.log($(form).serialize());
   $.ajax({
            type: "post",
            url: TRINITY.url.subscribe,
            data: $(form).serialize(),
            success: function(payload, stat, req){
-             console.log(payload, stat);
              $("#email").replaceWith("<div id=\"response\">" +
                                      "<em>Thanks.  We'll be in touch! " +
                                      "<a href=\"\">Add another?</a></em></div>");
            },
            error: function(e){
-             console.log("error", e);
              $("#email")
                .replaceWith("<div id=\"response\">" +
                             "<em>Invalid email address? <a href=\"\">Try again</a>.</em></div>");
