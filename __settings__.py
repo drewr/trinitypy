@@ -98,7 +98,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     "common.context_processors.url",
 )
 
-CAMPAIGN_MONITOR_KEY = "86382fe447901aee698a4106b6860b34";
+CAMPAIGN_MONITOR_KEY = "332f23331f81b8b7c6532be6a92a85ed";
 CAMPAIGN_MONITOR_URL = 'http://api.createsend.com/api/api.asmx'
 CAMPAIGN_MONITOR_NAMESPACE = 'http://api.createsend.com/api/'
-CAMPAIGN_MONITOR_LIST = "7abfff2df13874fe3130ef3006ed0552";
+CAMPAIGN_MONITOR_LIST = "2c3ac30475164264dde3dfae5a973b88";
