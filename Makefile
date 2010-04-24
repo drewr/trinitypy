@@ -1,6 +1,6 @@
-LOCALDB = rccweb-local.db
-PRODDB = /apps/pwm/rccweb-prod.db
-STAGEDB = /apps/pwm-stage/rccweb-stage.db
+LOCALDB = tcnash-local.db
+PRODDB = /apps/tcnash/tcnash-prod.db
+STAGEDB = /apps/tcnash-stage/tcnash-stage.db
 WEBHOST = valve
 
 default:
