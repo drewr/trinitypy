@@ -32,7 +32,9 @@ body {
   text-align:right;
 }
 
-#footer {
+span.address {
+  font-size:0.85em;
+  font-style:oblique;
 }
 
 .infoemail {
