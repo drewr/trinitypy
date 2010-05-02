@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Trinity Email Lists{% if list %} &#8212; {{ list.Name }}{% endif %}</title>
+</head>
+<body>
+<h1>Trinity Email Lists{% if list %} &#8212; {{ list.Name }}{% endif %}</h1>
+
+{% if lists %}
+{% for list in lists %}
+<a href="/cm/list/{{ list.ListID }}">{{ list.Name }}</a><br/>
+{% endfor %}
+{% endif %}
+
+{% if list %}
+<p>
+{{ emails|join:", " }}
+</p>
+
+
+{% if subscribers %}
+<table>
+{% for sub in subscribers|dictsort:"EmailAddress" %}
+<tr>
+<td>{{ sub.EmailAddress }}</td>
+<td>{% if sub.Name %}{{ sub.Name }}{% endif %}</td>
+</tr>
+{% endfor %}
+</table>
+{% else %}
+<p>No subscribers in the <em>{{ list.Name }}</em> list yet.</p>
+{% endif %}
+{% endif %}
+</body>
+</html>
