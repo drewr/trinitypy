@@ -41,3 +41,9 @@ span.address {
   text-align:right;
 }
 
+.contentsep {
+  border-top:1px solid lightgrey;
+  border-bottom:1px solid lightgrey;
+  padding-top:20px;
+  margin-bottom:20px;
+}
