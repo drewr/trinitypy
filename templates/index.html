@@ -1,93 +1,9 @@
-<html lang="en">
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>Trinity Church of Nashville</title>
-<link rel="stylesheet" href="{{ MEDIA_URL }}/css/reset.css" />
-<link rel="stylesheet" href="{{ MEDIA_URL }}/css/text.css" />
-<link rel="stylesheet" href="{{ MEDIA_URL }}/css/960.css" />
-<link rel="stylesheet" href="{{ MEDIA_URL }}/css/screen.css" />
-<script type="text/javascript" src="{{ MEDIA_URL }}/js/jquery-1.4.min.js"></script>
-<script type="text/javascript" src="{{ MEDIA_URL }}/js/application.js"></script>
-</head>
-<body>
+{% extends "base.html"%}
 
-<div class="container_16">
-<div class="grid_16">&nbsp;</div>
-
-<!-- Row 1 -->
-
-<div id="title" class="grid_5">
-<h1>Trinity Church</h1>
-</div>
-
-<div class="grid_5">
-<div id="signup">
-<form action="/500.html">
-<input id="email" name="email" type="text" value="Want email updates?  Enter your address." />
-</form>
-</div>
-</div>
-
-<div class="grid_6"></div>
-
-<div class="clear"></div>
-
-<!-- Row 2 -->
-
-<div class="grid_10">
-
-<div id="content">
-<p>
-<i><b>Trinity Church</b></i> is a church plant partnering
-with <a href="http://gccnashville.org">Grace Community Church</a> for
-ministry in Nashville's city-center.  With an official launch set for
-mid-September 2010, we currently meet for Bible study and prayer on
-<b>Sunday evenings</b> at the <b>Sevier Park Community Center</b> in
-the 12th South neighborhood of Nashville.  The meetings begin
-at <b>5:30PM</b> and last until approximately 7:00PM.  Childcare is
-provided.
-</p>
+{% block content %}
 
 <div id="map">
 <iframe width="580" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;t=p&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Sevier+Community+Center,+3021+Lealand+Lane,+Nashville,+TN+37204-2517&amp;sll=36.028949,-86.710321&amp;sspn=0.006265,0.013797&amp;ie=UTF8&amp;hq=Sevier+Community+Center,&amp;hnear=3021+Lealand+Ln,+Nashville,+TN+37204&amp;ll=36.123594,-86.785469&amp;spn=0.013866,0.051413&amp;z=14&amp;iwloc=&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Sevier+Community+Center,+3021+Lealand+Lane,+Nashville,+TN+37204-2517&amp;sll=36.028949,-86.710321&amp;sspn=0.006265,0.013797&amp;ie=UTF8&amp;hq=Sevier+Community+Center,&amp;hnear=3021+Lealand+Ln,+Nashville,+TN+37204&amp;ll=36.123594,-86.785469&amp;spn=0.013866,0.051413&amp;z=14" target="__" style="color:#0000FF;text-align:left">View in Google Maps</a></small>
 </div>
-</div>
-</div>
 
-<div class="grid_6"></div>
-<div class="clear"></div>
-
-<!-- Row 3 -->
-
-<div class="grid_5">
-&copy 2010 Trinity Church of Nashville
-</div>
-
-<div class="grid_5 infoemail">
-<a href="mailto:mail@tcnash.org">mail@tcnash.org</a>
-</div>
-
-<div class="grid_6">&nbsp</div>
-<div class="clear"></div>
-
-<div class="grid_10">
-<span class="address">PO Box 41814, Nashville, TN 37204</span>
-</div>
-
-<div class="grid_6">&nbsp;</div>
-
-<div class="clear"></div>
-<div class="grid_16 spacer">&nbsp;</div>
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-13120469-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-</body>
-</html>
+{% endblock content %}
