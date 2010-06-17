@@ -47,3 +47,39 @@ span.address {
   padding-top:20px;
   margin-bottom:20px;
 }
+
+#nav a {
+  text-decoration:none;
+  text-transform:uppercase;
+  font-weight:normal;
+  font-family:arial;
+  font-size:0.8em;
+}
+
+#nav a:hover {
+  font-weight:bold;
+}
+
+#nav ul {
+  height:22px;
+  margin:0 0 10px 0;
+  padding:0;
+  border-bottom:1px solid lightgrey;
+
+}
+
+#nav li {
+  margin:0 3px 0 3px;
+  padding:5px 10px 5px 10px;
+  display:block;
+  width:40px;
+  height:10px;
+  float:left;
+  border:1px solid lightgrey;
+  border-bottom:1px solid white;
+  -moz-border-radius-topleft:3px;
+  -moz-border-radius-topright:3px;
+  -webkit-border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  text-align:center;
+}
