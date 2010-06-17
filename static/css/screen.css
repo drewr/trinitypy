@@ -54,32 +54,104 @@ span.address {
   font-weight:normal;
   font-family:arial;
   font-size:0.8em;
-}
-
-#nav a:hover {
-  font-weight:bold;
-}
-
-#nav ul {
-  height:22px;
-  margin:0 0 10px 0;
-  padding:0;
-  border-bottom:1px solid lightgrey;
-
-}
-
-#nav li {
-  margin:0 3px 0 3px;
-  padding:5px 10px 5px 10px;
   display:block;
-  width:40px;
-  height:10px;
-  float:left;
-  border:1px solid lightgrey;
-  border-bottom:1px solid white;
+  width:65px;
+  height:16px;
+  padding:0 0 0 0;
+  vertical-align:center;
+  border-top:1px solid lightgrey;
+  border-left:1px solid lightgrey;
+  border-right:1px solid lightgrey;
   -moz-border-radius-topleft:3px;
   -moz-border-radius-topright:3px;
   -webkit-border-top-left-radius:3px;
   -webkit-border-top-right-radius:3px;
   text-align:center;
+
+}
+
+#nav ul {
+  height:17px;
+  margin:0 0 10px 0;
+  padding:0;
+  border-bottom:1px solid lightgrey;
+}
+
+#nav li {
+  margin:0 3px 0 3px;
+  /* padding:5px 10px 5px 10px; */
+  display:block;
+  width:65px;
+  height:16px;
+  float:left;
+}
+
+#nav a:hover, #nav a.active {
+  font-weight:bold;
+  border-bottom:1px solid white;
+  border-top:1px solid grey;
+  border-left:1px solid grey;
+  border-right:1px solid grey;
+}
+
+#nav ul:hover, #nav ul.active {
+  border-bottom:1px solid grey;
+}
+
+#nav li:hover {
+  border-bottom:1px solid white;
+}
+
+#nav2 a {
+  text-decoration:none;
+  text-transform:uppercase;
+  font-weight:normal;
+  font-family:arial;
+  font-size:0.8em;
+  display:block;
+  width:65px;
+  height:16px;
+  padding:0 0 0 0;
+  vertical-align:center;
+  border-top:1px solid lightgrey;
+  border-left:1px solid lightgrey;
+  border-right:1px solid lightgrey;
+  -moz-border-radius-topleft:3px;
+  -moz-border-radius-topright:3px;
+  -webkit-border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  text-align:center;
+
+}
+
+#nav2 ul {
+  height:17px;
+  margin:0 0 10px 0;
+  padding:0;
+  border-bottom:1px solid lightgrey;
+}
+
+#nav2 li {
+  margin:0 3px 0 3px;
+  /* padding:5px 10px 5px 10px; */
+  display:block;
+  width:65px;
+  height:16px;
+  float:left;
+}
+
+#nav2 a:hover, #nav2 a.active {
+  font-weight:bold;
+  border-bottom:1px solid white;
+  border-top:1px solid grey;
+  border-left:1px solid grey;
+  border-right:1px solid grey;
+}
+
+#nav2 ul:hover, #nav2 ul.active {
+  border-bottom:1px solid grey;
+}
+
+#nav2 li:hover {
+  border-bottom:1px solid white;
 }
