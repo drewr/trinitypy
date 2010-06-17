@@ -55,9 +55,8 @@ span.address {
   font-family:arial;
   font-size:0.8em;
   display:block;
-  width:65px;
   height:16px;
-  padding:0 0 0 0;
+  padding:0 15px 0 15px;
   vertical-align:center;
   border-top:1px solid lightgrey;
   border-left:1px solid lightgrey;
@@ -81,17 +80,19 @@ span.address {
   margin:0 3px 0 3px;
   /* padding:5px 10px 5px 10px; */
   display:block;
-  width:65px;
   height:16px;
   float:left;
 }
 
 #nav a:hover, #nav a.active {
-  font-weight:bold;
   border-bottom:1px solid white;
   border-top:1px solid grey;
   border-left:1px solid grey;
   border-right:1px solid grey;
+}
+
+#nav a.active {
+  font-weight:bold;
 }
 
 #nav ul:hover, #nav ul.active {
