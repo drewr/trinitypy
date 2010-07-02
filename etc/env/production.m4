@@ -4,7 +4,7 @@ define(_TIMESTAMP_, patsubst(esyscmd(`date +%Y%m%d%H%M%S'), `
 define(_ADMINEMAIL_, root@draines.com)
 define(_HOST_, valve)
 define(_VHOST_, tcnash.org)
-define(_VHOST2_, `www.tcnash.org trinitynashville.org www.trinitynashville.org trinity.tc www.trinity.tc')
+define(_VHOST2_, `www.tcnash.org trinitynashville.org www.trinitynashville.org trinity.tc www.trinity.tc trinash.org www.trinash.org')
 define(_PROJECT_, tcnash)
 define(_PROJECTBASE_, /apps/_PROJECT_)
 define(_PROJECTROOT_, _PROJECTBASE_/current)
