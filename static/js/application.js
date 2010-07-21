@@ -1,6 +1,7 @@
 TRINITY = Object();
 TRINITY.defaults = Object();
 TRINITY.signup = Object();
+TRINITY.nav = Object();
 TRINITY.url = Object();
 TRINITY.url.subscribe = "/cm/subscribe/";
 
@@ -27,6 +28,30 @@ TRINITY.signup.submit = function(e) {
   return false;
 };
 
+TRINITY.nav.expire_hover = function () {
+  if (TRINITY.nav.menu) {
+    TRINITY.nav.menu.find("ul").fadeOut("fast");
+  }
+};
+
+TRINITY.nav.on = function() {
+  if (TRINITY.nav.menu) {
+    TRINITY.nav.menu.find("ul").fadeOut("fast");
+    TRINITY.nav.menu = null;
+  }
+  $(this).find("ul").show();
+};
+
+TRINITY.nav.off = function() {
+  TRINITY.nav.menu = $(this);
+  setTimeout("TRINITY.nav.expire_hover()", 50);
+};
+
+TRINITY.nav.set_up = function() {
+  TRINITY.nav.menu = null;
+  $("#nav > ul > li").hover(TRINITY.nav.on, TRINITY.nav.off);
+};
+
 TRINITY.init = function() {
   TRINITY.defaults.email = $("#email").val();
 
@@ -45,6 +70,8 @@ TRINITY.init = function() {
           });
 
   $("#signup form").submit(TRINITY.signup.submit);
+
+  TRINITY.nav.set_up();
 };
 
 $(document).ready(TRINITY.init);

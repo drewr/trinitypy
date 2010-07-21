@@ -48,12 +48,15 @@ span.address {
   margin-bottom:20px;
 }
 
-#nav a {
+#nav li.menu-head a {
   text-decoration:none;
   text-transform:uppercase;
   font-weight:normal;
   font-family:arial;
   font-size:0.8em;
+}
+
+#nav li.menu-head > a {
   display:block;
   height:16px;
   padding:0 15px 0 15px;
@@ -66,22 +69,22 @@ span.address {
   -webkit-border-top-left-radius:3px;
   -webkit-border-top-right-radius:3px;
   text-align:center;
-
 }
 
-#nav ul {
+#nav ul.nav-ul {
   height:17px;
   margin:0 0 10px 0;
   padding:0;
   border-bottom:1px solid lightgrey;
 }
 
-#nav li {
+#nav li.menu-head {
   margin:0 3px 0 3px;
   /* padding:5px 10px 5px 10px; */
   display:block;
   height:16px;
   float:left;
+  position:relative;
 }
 
 #nav a:hover, #nav a.active {
@@ -91,15 +94,44 @@ span.address {
   border-right:1px solid grey;
 }
 
-#nav a.active {
+#nav li.menu-head a.active {
   font-weight:bold;
 }
 
-#nav ul:hover, #nav ul.active {
+#nav ul.nav-ul:hover, #nav ul.active {
   border-bottom:1px solid grey;
 }
 
-#nav li:hover {
+#nav li.menu-head:hover {
   border-bottom:1px solid white;
 }
 
+#nav ul.menu {
+  border-right:1px solid;
+  border-bottom:1px solid;
+  border-left:1px solid;
+  z-index:auto;
+  background-color:white;
+  position:absolute;
+  top:18px;
+  text-align:left;
+  width:185px;
+}
+
+#nav ul.menu a {
+  padding:0;
+  margin:0;
+  border:0px;
+}
+
+#nav ul.menu a:hover {
+  border:0px;
+}
+
+#nav ul.menu li {
+  list-style-type:none;
+  text-align:left;
+  margin:3px;
+  margin-left:14px;
+  padding:0;
+}
