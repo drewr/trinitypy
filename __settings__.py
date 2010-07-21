@@ -103,3 +103,5 @@ CAMPAIGN_MONITOR_CLIENT = "1a5af9fea1a6b497aae1c494dca1c1c7"
 CAMPAIGN_MONITOR_URL = 'http://api.createsend.com/api/api.asmx'
 CAMPAIGN_MONITOR_NAMESPACE = 'http://api.createsend.com/api/'
 CAMPAIGN_MONITOR_LIST = "2c3ac30475164264dde3dfae5a973b88";
+
+APPEND_SLASH = False
