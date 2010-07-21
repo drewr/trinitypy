@@ -51,7 +51,6 @@ span.address {
 #nav li.menu-head a {
   text-decoration:none;
   text-transform:uppercase;
-  font-weight:normal;
   font-family:arial;
   font-size:0.8em;
 }
@@ -94,7 +93,7 @@ span.address {
   border-right:1px solid grey;
 }
 
-#nav li.menu-head a.active {
+#nav a.active {
   font-weight:bold;
 }
 
@@ -107,25 +106,28 @@ span.address {
 }
 
 #nav ul.menu {
-  border-right:1px solid;
-  border-bottom:1px solid;
-  border-left:1px solid;
-  z-index:auto;
+  border:2px solid #ddd;
+  z-index:1000;
   background-color:white;
   position:absolute;
-  top:18px;
+  top:16px;
   text-align:left;
-  width:185px;
+  display:block;
+  box-shadow:5px 5px 5px #888;
+  -webkit-box-shadow:5px 5px 5px #888;
 }
 
 #nav ul.menu a {
   padding:0;
   margin:0;
   border:0px;
+  width:185px;
+  display:block;
 }
 
 #nav ul.menu a:hover {
   border:0px;
+  font-weight:bold;
 }
 
 #nav ul.menu li {
