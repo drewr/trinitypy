@@ -105,3 +105,5 @@ CAMPAIGN_MONITOR_NAMESPACE = 'http://api.createsend.com/api/'
 CAMPAIGN_MONITOR_LIST = "2c3ac30475164264dde3dfae5a973b88";
 
 APPEND_SLASH = False
+
+USER_TEMPLATE_ROOT = "user_templates"
