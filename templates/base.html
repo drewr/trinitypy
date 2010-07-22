@@ -40,40 +40,39 @@
 <ul class="nav-ul">
 
 <li class="menu-head">
-<a href="#">About</a>
+<a class="{% block classes-about %}{% endblock %}" href="about.html">About</a>
 <ul class="menu" style="display:none">
-<li><a href="#">Our Core Commitments</a></li>
-<li><a href="#">Our Beliefs</a></li>
-<li><a href="#">Our Covenant</a></li>
-<li><a href="#">Our Leadership</a></li>
-<li><a href="#">Our Pastor</a></li>
+<li><a class="{% block classes-commitments %}{% endblock %}" href="commitments.html">Our Core Commitments</a></li>
+<li><a class="{% block classes-beliefs     %}{% endblock %}" href="beliefs.html">Our Beliefs</a></li>
+<li><a class="{% block classes-covenant    %}{% endblock %}" href="covenant.html">Our Covenant</a></li>
+<li><a class="{% block classes-leadership  %}{% endblock %}" href="leadership.html">Our Leadership</a></li>
+<li><a class="{% block classes-pastor      %}{% endblock %}" href="pastor.html">Our Pastor</a></li>
 </ul>
 </li>
 
 <li class="menu-head">
-<a href="#" class="active">Life at Trinity</a>
+<a class="{% block classes-life %}{% endblock %}" href="life.html">Life at Trinity</a>
 <ul class="menu" style="display:none">
-<li><a href="#">Worship</a></li>
-<li><a class="active" href="#">Covenant Groups</a></li>
-<li><a href="#">Discipleship</a></li>
-<li><a href="#">Trinity Kids</a></li>
-<li><a href="#">Ministry</a></li>
+<li><a class="{% block classes-worship      %}{% endblock %}" href="worship.html">Worship</a></li>
+<li><a class="{% block classes-groups       %}{% endblock %}" href="groups.html">Covenant Groups</a></li>
+<li><a class="{% block classes-discipleship %}{% endblock %}" href="discipleship.html">Discipleship</a></li>
+<li><a class="{% block classes-kids         %}{% endblock %}" href="kids.html">Trinity Kids</a></li>
+<li><a class="{% block classes-ministry     %}{% endblock %}" href="ministry.html">Ministry</a></li>
 </ul>
 </li>
 
 <li class="menu-head">
-<a href="#">Connect to Trinity</a>
+<a class="{% block classes-connect %}{% endblock %}" href="connect.html">Connect to Trinity</a>
 <ul class="menu" style="display:none">
-<li><a href="#">First-Timers</a></li>
-<li><a href="#">Membership</a></li>
+<li><a class="{% block classes-first-timers %}{% endblock %}" href="first-timers.html">First-Timers</a></li>
+<li><a class="{% block classes-membership   %}{% endblock %}" href="membership.html">Membership</a></li>
 </ul>
 </li>
 
 <li class="menu-head">
-<a href="#">Media</a>
+<a class="{% block classes-resources %}{% endblock %}" href="resources.html">Resources</a>
 <ul class="menu" style="display:none">
-<li><a href="#">Podcasts</a></li>
-<li><a href="#">Articles</a></li>
+<li><a class="{% block classes-audio    %}{% endblock %}" href="audio.html">Audio</a></li>
 </ul>
 </li>
 </ul>
@@ -83,18 +82,12 @@
 
 <div id="content">
 
-<p>
-<i><b>Trinity Church</b></i> is a church plant partnering
-with <a href="http://gccnashville.org">Grace Community Church</a> for
-ministry in Nashville's city-center.  With an official launch set for
-mid-September 2010, we currently meet for Bible study and prayer on
-<b>Sunday evenings</b> at the <b>Sevier Park Community Center</b> in
-the 12th South neighborhood of Nashville.  The meetings begin
-at <b>5:30PM</b> and last until approximately 7:00PM.  Childcare is
-provided.  <a href="audio.html">Audio recordings</a> are available.
-</p>
+{% block content %}
+{% autoescape off %}
+{{ content }}
+{% endautoescape %}
+{% endblock content %}
 
-{% block content %}{% endblock %}
 </div>
 </div>
 
