@@ -42,9 +42,7 @@ span.address {
 }
 
 .contentsep {
-  border-top:1px solid lightgrey;
-  border-bottom:1px solid lightgrey;
-  padding-top:20px;
+  padding-top:10px;
   margin-bottom:20px;
 }
 
