@@ -11,7 +11,7 @@ def mark_down_template(path):
     try:
         return markdown_path(path)
     except IOError:
-        return "content not found: %s" % path
+        return Http404("The page you requested (%s) cannot be found." % path)
 
 def template_viewer(request, path):
     path = path.strip("/")
@@ -24,8 +24,19 @@ def template_viewer(request, path):
         ## Let's use html suffixes for now.
         ## else:
         ##     template = path + ".html"
+
+    content = mark_down_template(template)
+
     try:
-        return render_to_response(template, {'content':mark_down_template(template)},
+        return render_to_response(template, {'content':content},
                                   context_instance=RequestContext(request))
     except TemplateDoesNotExist:
-        raise Http404("%s does not exist" % template)
+        if isinstance(content, Exception):
+            raise content
+        else:
+            return render_to_response("base.html",
+                                      {'content':content},
+                                      context_instance=RequestContext(request))
+
+
+    
