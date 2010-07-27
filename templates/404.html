@@ -20,9 +20,13 @@
 <div class="grid_12">
 
 <div id="content">
-<p>
-Page not found.
-</p>
+<div class="contentsep">
+{% block content %}
+{% autoescape off %}
+{{ content }}
+{% endautoescape %}
+{% endblock content %}
+</div>
 </div>
 
 </div>
