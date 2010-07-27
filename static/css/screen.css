@@ -12,7 +12,17 @@ body {
   font-style:oblique;
 }
 
-#title {
+#title a {
+  text-decoration:none;
+  color:black;
+}
+
+#title a:visited {
+  color:black;
+}
+
+#title a:hover {
+  text-decoration:underline;
 }
 
 #response {
