@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+
+<title>Trinity Church of Nashville Audio</title>
+<link>http://tcnash.org/audio.xml</link>
+<description>Sermons at Trinity Church of Nashville by Matt McCullough and others.</description>
+<language>en-us</language>
+<lastBuildDate>Sun, 26 Sep 2010 12:00:00 CDT</lastBuildDate>
+<itunes:author>Matt McCullough</itunes:author>
+<itunes:keywords>reformed, gospel, baptist, eakin, grace, dave hunt</itunes:keywords>
+<itunes:image href="http://tcnash.org/img/podcast1.png" />
+<itunes:owner>
+  <itunes:email>tech@tcnash.org</itunes:email>
+  <itunes:name>Drew Raines</itunes:name>
+</itunes:owner>
+<itunes:category text="Religion &amp; Spirituality">
+  <itunes:category text="Christianity" />
+</itunes:category>
+
+<item>
+<title>Mark 1:16-45: Jesus's Liberating Authority</title>
+<link>http://tcnash.org/audio.html</link>
+<description>Speaker: Matt McCullough. In this passage Mark tells a group of stories designed to show that Jesus came preaching the kingdom with a remarkably distinctive authority.  But these stories also reveal a paradoxical truth: submission to Jesus's loving authority sets you free.</description>
+<pubDate>Sun, 26 Sep 2010 10:30:00 CDT</pubDate>
+<guid>4AC18ACB-3F05-4F2A-9B22-26FEC7D498F9</guid>
+<enclosure url="http://media.tcnash.org/2010-09-26-Mark-1-Jesus-Liberating-Authority.mp3" length="20691290" type="audio/mpeg" />
+<itunes:duration>00:43:06</itunes:duration>
+</item>
+
+<item>
+<title>Mark 1:1-16: Who Is Jesus?</title>
+<link>http://tcnash.org/audio.html</link>
+<description>Speaker: Matt McCullough.  In order to consider the gospel of Jesus Christ about which Mark writes, we must ask answer three questions: Who is Jesus?  What did he come here to do?  What does he require of us?</description>
+<pubDate>Sun, 19 Sep 2010 10:30:00 CDT</pubDate>
+<guid>08D5A32B-6C18-4F13-AE4C-76478E54A218</guid>
+<enclosure url="http://media.tcnash.org/2010-09-19-Mark-1-Who-Is-Jesus.mp3" length="20914835" type="audio/mpeg" />
+<itunes:duration>00:43:34</itunes:duration>
+</item>
+
+</channel>
+</rss>
