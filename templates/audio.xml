@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 
-<title>Trinity Church of Nashville Audio</title>
+<title>Trinity Church of Nashville</title>
 <link>http://tcnash.org/audio.xml</link>
 <description>Sermons at Trinity Church of Nashville by Matt McCullough and others.</description>
 <language>en-us</language>
@@ -10,13 +10,26 @@
 <itunes:author>Matt McCullough</itunes:author>
 <itunes:keywords>reformed, gospel, baptist, eakin, grace, dave hunt</itunes:keywords>
 <itunes:image href="http://tcnash.org/img/podcast1.png" />
+<image>
+  <url>http://tcnash.org/img/podcast1.png</url>
+  <title>Trinity Church of Nashville</title>
+  <link>http://tcnash.org</link>
+  <width>459</width>
+  <height>479</height>
+</image>
 <itunes:owner>
   <itunes:email>tech@tcnash.org</itunes:email>
   <itunes:name>Drew Raines</itunes:name>
 </itunes:owner>
+<category>Religion &amp; Spirituality</category>
+<category>Christianity</category>
 <itunes:category text="Religion &amp; Spirituality">
   <itunes:category text="Christianity" />
 </itunes:category>
+<copyright>©2010 Trinity Church of Nashville. This work is licensed
+under a Creative Commons Attribution-Noncommercial-No Derivative Works
+3.0 United States License. To view a copy of this license, visit
+http://creativecommons.org/licensenc-nd/3.0/us/</copyright>
 
 <item>
 <title>Mark 1:16-45: Jesus's Liberating Authority</title>
