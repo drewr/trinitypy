@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.thevillagechurch.net/podcast/sermons.xml" />
+		<lastBuildDate>Mon, 20 Sep 2010 13:38:05 -0500</lastBuildDate>
+		<title>The Village Church - Sermon Audio</title>
+		<itunes:author>Matt Chandler</itunes:author>
+		<link>http://www.thevillagechurch.net</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[The Village Church exists to bring glory to God through lives changed by the gospel of Jesus Christ. We do this by (1) actively proclaiming the gospel in our community to those who do not believe, and by (2) actively pursuing the ongoing renovation of our own lives through the grace of Christ. This podcast includes sermons from pastors Matt Chandler, Beau Hughes, Josh Patterson, and others. Visit The Village Church online at www.thevillagechurch.net.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>The Village Church exists to bring glory to God through lives changed by the gospel of Jesus Christ. We do this by (1) actively proclaiming the gospel in our community to those who do not believe, and by (2) actively pursuing the ongoing renovation of our own lives through the grace of Christ. This podcast includes sermons from pastors Matt Chandler, Beau Hughes, Josh Patterson, and others. Visit The Village Church online at www.thevillagechurch.net.</itunes:summary>
+		<language>en</language>
+		<copyright>©2005-2010 The Village Church. This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</copyright>
+		<creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/3.0/us/</creativeCommons:license>
+		<itunes:owner>
+			<itunes:name>The Village Church</itunes:name>
+			<itunes:email>podcast@thevillagechurch.net</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://www.thevillagechurch.net/resource_files/audio/villageLogo_vert_podcast_600x600_144.jpg</url>
+			<title>The Village Church - Sermon Audio</title>
+			<link>http://www.thevillagechurch.net</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://www.thevillagechurch.net/resource_files/audio/villageLogo_vert_podcast_600x600.jpg" />
+		<category>Religion &amp; Spirituality</category>
+		<itunes:category text="Religion &amp; Spirituality" />
+		<category>Christianity</category>
+		<itunes:category text="Religion &amp; Spirituality">
+			<itunes:category text="Christianity" />
+		</itunes:category>
+		<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Ultimate Authority (Part 2): Ultimate Authority Revealed</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 2nd sermon in the &quot;Ultimate Authority&quot; series. Scripture from 2 Timothy 3:16-17 - preached by Lead Pastor, Teaching Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201009191700FMWC21ASAAA_MattChandler_UltimateAuthorityPt2-UltimateAuthorityRevealed.mp3" type="audio/mpeg" length="16942168" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201009191700FMWC21ASAAA_MattChandler_UltimateAuthorityPt2-UltimateAuthorityRevealed.mp3</guid>
+			<pubDate>Sun, 19 Sep 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:51:02</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Ultimate Authority (Part 1): Ultimate Authority and the Suicide of Rebellion</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 1st sermon in the &quot;Ultimate Authority&quot; series. Scripture from Daniel 4:35 - preached by Lead Pastor, Teaching Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201009120900FMWC21ASAAA_MattChandler_UltimateAuthorityPt1-UltimateAuthorityandtheSuicideofRebellion.mp3" type="audio/mpeg" length="17570960" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201009120900FMWC21ASAAA_MattChandler_UltimateAuthorityPt1-UltimateAuthorityandtheSuicideofRebellion.mp3</guid>
+			<pubDate>Sun, 12 Sep 2010 09:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:56:49</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 20): Gospel Farewells</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 20th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 4:7-18 - preached by Lead Pastor, Teaching Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201009051700FMWC21ASAAA_MattChandler_ColossiansPt20-GospelFarewells.mp3" type="audio/mpeg" length="13619524" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201009051700FMWC21ASAAA_MattChandler_ColossiansPt20-GospelFarewells.mp3</guid>
+			<pubDate>Sun, 05 Sep 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:48:09</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Being Marked by His Name</title>
+			<itunes:author>Bill Seal</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Deuteronomy 6:4-8 - preached by Dallas Northway Spiritual Formation Pastor, Bill Seal.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201008291700DNWC21ASAAA_BillSeal_StandAlone-BeingMarkedByHisName.mp3" type="audio/mpeg" length="12636476" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201008291700DNWC21ASAAA_BillSeal_StandAlone-BeingMarkedByHisName.mp3</guid>
+			<pubDate>Sun, 29 Aug 2010 16:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:38:55</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Jonah: God&apos;s Heart of Compassion</title>
+			<itunes:author>Afshin Ziafat</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Jonah 4 - preached by Afshin Ziafat.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201008291700FMWC21ASAAA_Afshin%20Ziafat_StandAlone-Jonah-GodsHeartofCompassion.mp3" type="audio/mpeg" length="17062624" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201008291700FMWC21ASAAA_Afshin%20Ziafat_StandAlone-Jonah-GodsHeartofCompassion.mp3</guid>
+			<pubDate>Sun, 29 Aug 2010 16:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:57:26</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Love One Another</title>
+			<itunes:author>Beau Hughes</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from John 13:34-35 - preached by Denton Campus Pastor, Beau Hughes.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201008290900DWC21ASAAA_BeauHughes-LoveOneAnother.mp3" type="audio/mpeg" length="17443374" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201008290900DWC21ASAAA_BeauHughes-LoveOneAnother.mp3</guid>
+			<pubDate>Sun, 29 Aug 2010 08:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:47:29</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 19): Slowing the Pendulum Swing</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 19th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 4:5-6 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201008221700FMWC21ASAAA_MattChandler_ColossiansPt19-SlowingthePendulumSwing.mp3" type="audio/mpeg" length="15349968" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201008221700FMWC21ASAAA_MattChandler_ColossiansPt19-SlowingthePendulumSwing.mp3</guid>
+			<pubDate>Sun, 22 Aug 2010 16:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:50:29</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Family Business</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from 1 Corinthians 12:12-31 - preached by Lead Pastor, Teaching Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201008151700FMWC21ASAAA_MattChandler_StandAlone-FamilyBusiness.mp3" type="audio/mpeg" length="16449270" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201008151700FMWC21ASAAA_MattChandler_StandAlone-FamilyBusiness.mp3</guid>
+			<pubDate>Sun, 15 Aug 2010 16:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:54:46</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 18): Devotion to Prayer</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 18th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 4:2-4 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201008080900FMWC21ASAAA_MattChandler_ColossiansPt18-DevotiontoPrayer.mp3" type="audio/mpeg" length="16368272" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201008080900FMWC21ASAAA_MattChandler_ColossiansPt18-DevotiontoPrayer.mp3</guid>
+			<pubDate>Sun, 08 Aug 2010 09:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:51:50</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 17): Slavery and the Skeptic</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 17th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 3:22-4:1 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201008011700FMWC21ASAAA_MattChandler_ColossiansPt17-SlaveryandtheSkeptic.mp3" type="audio/mpeg" length="15839106" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201008011700FMWC21ASAAA_MattChandler_ColossiansPt17-SlaveryandtheSkeptic.mp3</guid>
+			<pubDate>Sun, 01 Aug 2010 05:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:51:49</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Growing Up in Christ</title>
+			<itunes:author>Jeremy Daniel</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Ephesians 4:11-16 - preached by Denton Student Pastor Jeremy Daniel.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201007251700DWC21ASAAA_JeremyDaniel-GrowingUpInChrist.mp3" type="audio/mpeg" length="15026584" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201007251700DWC21ASAAA_JeremyDaniel-GrowingUpInChrist.mp3</guid>
+			<pubDate>Sun, 25 Jul 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:43:39</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>The Fear of the Lord</title>
+			<itunes:author>Josh Patterson</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Proverbs 1 - preached by Executive Pastor Josh Patterson.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201007251700DNWC21ASAAA_JoshPatterson_StandAlone-TheFearoftheLord.mp3" type="audio/mpeg" length="16169945" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201007251700DNWC21ASAAA_JoshPatterson_StandAlone-TheFearoftheLord.mp3</guid>
+			<pubDate>Sun, 25 Jul 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:53:45</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>The Opportunity of Weakness</title>
+			<itunes:author>Lee Lewis</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Psalm 120 and 121 - preached by Care Pastor Lee Lewis.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201007251115FMWC21ASAAA_LeeLewis_StandAlone-TheOpportunityofWeakness.mp3" type="audio/mpeg" length="11318738" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201007251115FMWC21ASAAA_LeeLewis_StandAlone-TheOpportunityofWeakness.mp3</guid>
+			<pubDate>Sun, 25 Jul 2010 11:15:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:38:00</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 16): Parenting: An Awareness of Our Need</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 16th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 3:20-21 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201007180900FMWC21ASAAA_MattChandler_ColossiansPt16-Parenting-anAwarenessofOurNeed.mp3" type="audio/mpeg" length="16186314" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201007180900FMWC21ASAAA_MattChandler_ColossiansPt16-Parenting-anAwarenessofOurNeed.mp3</guid>
+			<pubDate>Sun, 18 Jul 2010 09:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:49:30</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Saturday Seminar: The Story of Redemption</title>
+			<itunes:author>Elliott Greene</itunes:author>
+			<description><![CDATA[© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>Saturday Seminar: The Story of Redemption taught by Elliott Greene who is the Associate Professor of Biblical and Pastoral Theology at Redeemer Seminary in Dallas, Texas.</itunes:subtitle>
+			<itunes:summary>© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201007170900FMWC22ATAAA_Elliott%20Greene_TheStoryofRedemption.mp3" type="audio/mpeg" length="37236443" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201007170900FMWC22ATAAA_Elliott%20Greene_TheStoryofRedemption.mp3</guid>
+			<pubDate>Sat, 17 Jul 2010 09:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:08:52</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 15): God&apos;s Gift to Both Sexes</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 15th sermon in the &quot;Colossians&quot; series. Scripture from Genesis 1-3; Colossians 3:18-19 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201007110900FMWC21ASAAA_MattChandler_ColossiansPt15-GodsGifttoBothSexes.mp3" type="audio/mpeg" length="16775228" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201007110900FMWC21ASAAA_MattChandler_ColossiansPt15-GodsGifttoBothSexes.mp3</guid>
+			<pubDate>Sun, 11 Jul 2010 09:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:50:51</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Today, if You Hear His Voice</title>
+			<itunes:author>Geoff Ashley</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Hebrews 3:7-8 - preached by Discipleship Resource Pastor Geoff Ashley.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201007041700FMWC21ASAAA_GeoffAshley_StandAlone-TodayifYouHearHisvoice.mp3" type="audio/mpeg" length="12993559" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201007041700FMWC21ASAAA_GeoffAshley_StandAlone-TodayifYouHearHisvoice.mp3</guid>
+			<pubDate>Sun, 04 Jul 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:42:02</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Living With One Foot Raised</title>
+			<itunes:author>Beau Hughes</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Matthew 24:36-44 - preached by Denton Campus Pastor Beau Hughes.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201007041700DNWC21ASAAA_BeauHughes-LivingWithOneFootRaised.mp3" type="audio/mpeg" length="15231604" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201007041700DNWC21ASAAA_BeauHughes-LivingWithOneFootRaised.mp3</guid>
+			<pubDate>Sun, 04 Jul 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:43:36</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>The Church to Come</title>
+			<itunes:author>Brandon Barker</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Micah 3 &amp; 4 - preached by Dallas Groups &amp; Connections Pastor Brandon Barker.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201007041115DNWC21ASAAA_BrandonBarker_StandAlone-TheChurchtoCome.mp3" type="audio/mpeg" length="13143157" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201007041115DNWC21ASAAA_BrandonBarker_StandAlone-TheChurchtoCome.mp3</guid>
+			<pubDate>Sun, 04 Jul 2010 11:15:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:40:17</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Celebrating the Gospel</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from 1 Corinthians 15:1-4 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201006271700FMWC21ASAAA_MattChandler_StandAlone-CelebratingtheGospel.mp3" type="audio/mpeg" length="4783724" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201006271700FMWC21ASAAA_MattChandler_StandAlone-CelebratingtheGospel.mp3</guid>
+			<pubDate>Sun, 27 Jun 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:14:38</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Saturday Seminar: How to Study the Bible</title>
+			<itunes:author>Matt Chandler and Josh Patterson</itunes:author>
+			<description><![CDATA[© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>Saturday Seminar: How to Study the Bible taught by Lead Pastor Matt Chandler and Executive Pastor Josh Patterson.</itunes:subtitle>
+			<itunes:summary>© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201006260900FMWC22ATAAA_MattChandlerJoshPatterson_HowToStudyTheBible.mp3" type="audio/mpeg" length="30261567" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201006260900FMWC22ATAAA_MattChandlerJoshPatterson_HowToStudyTheBible.mp3</guid>
+			<pubDate>Sat, 26 Jun 2010 09:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:42:51</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 14): Three Streams</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 14th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 3:12-17 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201006200900FMWC21ASAAA_MattChandler_ColossiansPt14-ThreeStreams.mp3" type="audio/mpeg" length="17093422" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201006200900FMWC21ASAAA_MattChandler_ColossiansPt14-ThreeStreams.mp3</guid>
+			<pubDate>Sun, 20 Jun 2010 09:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:51:57</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 13): When Violence is Ok</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 13th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 3:5-11 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201006131700FMWC21ASAAA_MattChandler_ColossiansPt13-WhenViolenceisOK.mp3" type="audio/mpeg" length="16982722" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201006131700FMWC21ASAAA_MattChandler_ColossiansPt13-WhenViolenceisOK.mp3</guid>
+			<pubDate>Sun, 13 Jun 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:53:40</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 12): Grace Driven Effort</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 12th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 3:5-11 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201006061700FMWC21ASAAA_MattChandler_ColossiansPt12-GraceDrivenEffort.mp3" type="audio/mpeg" length="16920730" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201006061700FMWC21ASAAA_MattChandler_ColossiansPt12-GraceDrivenEffort.mp3</guid>
+			<pubDate>Sun, 06 Jun 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:51:44</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Community Defined</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Hebrews 10:19-25 - preached by Denton Student Pastor Jeremy Daniel.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201005301700DWC21ASAAA_JeremyDaniel_StandAlone-CommunityDefined.mp3" type="audio/mpeg" length="15588346" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201005301700DWC21ASAAA_JeremyDaniel_StandAlone-CommunityDefined.mp3</guid>
+			<pubDate>Sun, 30 May 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:47:22</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Beauty and Marriage</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from 1 Peter 3:1-7 - preached by Director of Student Ministries Blake Chilton.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201005300900FMWC21ASAAA_BlakeChilton_StandAlone-BeautyAndMarriage.mp3" type="audio/mpeg" length="14034302" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201005300900FMWC21ASAAA_BlakeChilton_StandAlone-BeautyAndMarriage.mp3</guid>
+			<pubDate>Sun, 30 May 2010 09:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:42:41</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Being the City of God in the City of Dallas</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Nehemiah 1:1-11 - preached by Dallas Campus Pastor Steve Hardin.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201005300900DNWC21ASAAA_SteveHardin_StandAlone-BeingtheCityofGodintheCityofDallas.mp3" type="audio/mpeg" length="9907622" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201005300900DNWC21ASAAA_SteveHardin_StandAlone-BeingtheCityofGodintheCityofDallas.mp3</guid>
+			<pubDate>Sun, 30 May 2010 09:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:27:55</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 11): If You Are Raised with Christ</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 11th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 3:1-4 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201005231700FMWC21ASAAA_MattChandler_ColossiansPt11-IfYouAreRaisedWithChrist.mp3" type="audio/mpeg" length="14055364" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201005231700FMWC21ASAAA_MattChandler_ColossiansPt11-IfYouAreRaisedWithChrist.mp3</guid>
+			<pubDate>Sun, 23 May 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:40:29</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Culture &amp; Theology: Homosexuality</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>Culture &amp; Theology: Homosexuality taught by Lead Pastor Matt Chandler. Video is available at www.thevillagechurch.net/culture-theology.</itunes:subtitle>
+			<itunes:summary>© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201005211900FMWC21ATAAA_MattChandler_CultureAndTheology-Homosexuality.mp3" type="audio/mpeg" length="35152182" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201005211900FMWC21ATAAA_MattChandler_CultureAndTheology-Homosexuality.mp3</guid>
+			<pubDate>Fri, 21 May 2010 19:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:04:47</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 10): Identity</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 10th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 2:9-23 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201005161115FMWC21ASAAA_MattChandler_ColossiansPt10-Identity.mp3" type="audio/mpeg" length="15777708" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201005161115FMWC21ASAAA_MattChandler_ColossiansPt10-Identity.mp3</guid>
+			<pubDate>Sun, 16 May 2010 11:15:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:44:51</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 9): Guarding the Garden</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 9th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 2:1-8 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201005091115FMWC21ASAAA_MattChandler_ColossiansPt09-GuardingTheGarden.mp3" type="audio/mpeg" length="13514048" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201005091115FMWC21ASAAA_MattChandler_ColossiansPt09-GuardingTheGarden.mp3</guid>
+			<pubDate>Sun, 09 May 2010 11:15:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:37:40</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 8): Stewards of Mystery</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 8th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 1:24-29 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201005021700FMWC21ASAAA_MattChandler_ColossiansPt08-StewardsOfMystery.mp3" type="audio/mpeg" length="15875672" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201005021700FMWC21ASAAA_MattChandler_ColossiansPt08-StewardsOfMystery.mp3</guid>
+			<pubDate>Sun, 02 May 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:44:50</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Service</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from Matthew 20:20-28 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201004251115FMWC21ASAAA_MattChandler-Service.mp3" type="audio/mpeg" length="16325678" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201004251115FMWC21ASAAA_MattChandler-Service.mp3</guid>
+			<pubDate>Sun, 25 Apr 2010 11:15:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:44:43</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 7): The Afflictions of Christ</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 7th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 1:24 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201004181700FMWC21ASAAA_MattChandler_ColossiansPt07-TheAfflictionsOfChrist.mp3" type="audio/mpeg" length="15491132" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201004181700FMWC21ASAAA_MattChandler_ColossiansPt07-TheAfflictionsOfChrist.mp3</guid>
+			<pubDate>Sun, 18 Apr 2010 17:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:42:58</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Witnesses</title>
+			<itunes:author>Beau Hughes</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from John 21:1-19 - preached by Denton Campus Pastor Beau Hughes.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201004111915DWC21ASAAA_BeauHughes-Witnesses.mp3" type="audio/mpeg" length="17404864" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201004111915DWC21ASAAA_BeauHughes-Witnesses.mp3</guid>
+			<pubDate>Sun, 11 Apr 2010 19:15:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:52:21</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Abide</title>
+			<itunes:author>Josh Patterson</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>This is a stand-alone message, not part of any sermon series. Scripture from John 15:1-11 - preached by Executive Pastor Josh Patterson.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201004111115FMWC21ASAAA_JoshPatterson-Abide.mp3" type="audio/mpeg" length="16512827" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201004111115FMWC21ASAAA_JoshPatterson-Abide.mp3</guid>
+			<pubDate>Sun, 11 Apr 2010 11:15:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:49:43</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 6): From Alienation to Reconciliation</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 6th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 1:21-23 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201004040800FMWC21ASAAA_MattChandler_ColossiansPt06-FromAlientationToReconciliation.mp3" type="audio/mpeg" length="12565212" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201004040800FMWC21ASAAA_MattChandler_ColossiansPt06-FromAlientationToReconciliation.mp3</guid>
+			<pubDate>Sun, 04 Apr 2010 08:00:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:34:03</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+		<item>
+			<title>Colossians (Part 5): The Fullness was Pleased to Dwell</title>
+			<itunes:author>Matt Chandler</itunes:author>
+			<description><![CDATA[Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/]]></description>
+			<itunes:subtitle>The 5th sermon in the &quot;Colossians&quot; series. Scripture from Colossians 1:19 - preached by Lead Pastor Matt Chandler.</itunes:subtitle>
+			<itunes:summary>Study Guides, Transcripts and our Sermon Archive:
+http://www.thevillagechurch.net/sermons
+
+------------------------------------------------------
+
+© 2010 The Village Church (www.thevillagechurch.net). This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licensenc-nd/3.0/us/</itunes:summary>
+			<enclosure url="http://www.thevillagechurch.net/resource_files/audio/201003211115FMWC21ASAAA_MattChandler_ColossiansPt05-TheFullnessWasPleasedToDwell.mp3" type="audio/mpeg" length="17638620" />
+			<guid>http://www.thevillagechurch.net/resource_files/audio/201003211115FMWC21ASAAA_MattChandler_ColossiansPt05-TheFullnessWasPleasedToDwell.mp3</guid>
+			<pubDate>Sun, 21 Mar 2010 11:15:00 -0500</pubDate>
+			<category>Christianity</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:51:33</itunes:duration>
+			<itunes:keywords>Village Church, The Village Church, Matt Chandler, Josh Patterson, Beau Hughes, Sermon, Bible, Christian, God, Jesus Christ</itunes:keywords>
+		</item>
+	</channel>
+</rss>
