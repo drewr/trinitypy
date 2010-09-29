@@ -10,13 +10,13 @@
 <itunes:author>Matt McCullough</itunes:author>
 <itunes:keywords>reformed, gospel, baptist, eakin, grace, dave hunt</itunes:keywords>
 <itunes:image href="http://tcnash.org/img/podcast3.png" />
-<image>
+<!-- <image>
   <url>http://tcnash.org/img/podcast3.png</url>
   <title>Trinity Church of Nashville</title>
   <link>http://tcnash.org</link>
   <width>600</width>
   <height>600</height>
-</image>
+</image> -->
 <itunes:owner>
   <itunes:email>tech@tcnash.org</itunes:email>
   <itunes:name>Drew Raines</itunes:name>
