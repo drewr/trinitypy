@@ -145,3 +145,7 @@ span.address {
   margin-left:14px;
   padding:0;
 }
+
+a.feedicon img {
+  margin-bottom:-1px;
+}
