@@ -26,3 +26,5 @@ proddb:
 cloneprod:
 	scp deploy@${WEBHOST}:${STAGEDB} ${LOCALDB}
 
+itunes:
+	bin/ping-itunes

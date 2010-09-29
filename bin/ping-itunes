@@ -1,0 +1,19 @@
+#!/bin/zsh
+
+FEEDBURNER="http://feedburner.google.com/fb/a/pingSubmit?bloglink=http://tcnash.org/audio.xml"
+ITUNES="https://phobos.apple.com/WebObjects/MZFinance.woa/wa/pingPodcast?id=395441827"
+
+ping() {
+  echo -n pinging ${1}...
+  if curl -s $2 >/dev/null 2>&1; then
+    echo " done."
+  else
+    echo " fail."
+    exit 1
+  fi
+}
+
+ping feedburner $FEEDBURNER
+echo sleeping...
+sleep 10
+ping itunes $ITUNES
