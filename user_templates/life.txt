@@ -9,3 +9,5 @@
 * [Trinity Kids](kids.html)
 
 * [Ministry](ministry.html)
+
+* [Women's Ministry](women.html)
