@@ -7,6 +7,7 @@ a {
   color:#9e8938; 
   color:#776729; 
 /*  color:grey;*/
+  text-decoration:none;
 }
 
 #map {
@@ -160,6 +161,10 @@ span.address {
 
 a.feedicon img {
   margin-bottom:-1px;
+}
+
+#content a:hover {
+  text-decoration:underline;
 }
 
 #content h2,h3,h4,h5 {
