@@ -17,6 +17,10 @@ body {
   color:black;
 }
 
+#title a img {
+  margin:0 5px -10px 0;
+}
+
 #title a:visited {
   color:black;
 }
@@ -31,7 +35,7 @@ body {
 }
 
 #signup input {
-  margin-top:7px;
+  margin:44px 0 0 0;
   border:1px solid lightgrey;
   font-style:oblique;
   font-family:Georgia, 'Times New Roman', Times, Serif;
