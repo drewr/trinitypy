@@ -1,0 +1,15 @@
+#!/bin/sh
+
+PYTHONPATH=lib:${DJANGO:-django}; export PYTHONPATH
+ARGS=$*
+MANAGE="python manage.py"
+SETTINGS=settings
+OPTS="--settings=$SETTINGS"
+
+if [ "x$ARGS" == "x" ]; then
+  $MANAGE runserver 0.0.0.0:8001 $OPTS
+elif [ "x$ARGS" == "xtest" ]; then
+  $MANAGE $ARGS --settings=${SETTINGS}_test
+else
+  $MANAGE $ARGS $OPTS
+fi
