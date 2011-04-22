@@ -4,7 +4,11 @@ STAGEDB = /apps/tcnash-stage/tcnash-stage.db
 WEBHOST = valve
 
 default:
-	@echo no target specified
+	@echo -n bootstrapping...
+	@sed s,_DATABASE_NAME_,$(LOCALDB), <settings.py.in >settings.py.tmp
+	@sed s,_TEMPLATEROOT_,user_templates, <settings.py.tmp >settings.py
+	@rm settings.py.tmp
+	@echo done
 
 stage:
 	bin/deploy stage
