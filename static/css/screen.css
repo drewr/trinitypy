@@ -37,8 +37,8 @@ a {
   text-decoration:underline;
 }
 
-#response {
-  margin-top:9px;
+#signup #response {
+  margin:44px 0 0 0;
   text-align:right;
 }
 
