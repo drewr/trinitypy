@@ -25,7 +25,7 @@ urlpatterns += patterns('',
             dict(template='audio.xml',
                  mimetype='application/xml',
                  extra_context={})),
-    (r'^$', 'django.views.generic.simple.direct_to_template',
-            dict(template='index.html')),
+    # (r'^$', 'django.views.generic.simple.direct_to_template',
+    #         dict(template='index.html')),
 )
 

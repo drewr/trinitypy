@@ -19,7 +19,7 @@
 <div id="title" class="grid_5">
 <h1><a href="/"><img src="/img/logo.png" />Trinity Church</a></h1>
 </div>
-
+<div class="grid_6">&nbsp;</div>
 <div class="grid_5">
 <div id="signup">
 <form action="/500.html">
@@ -34,12 +34,20 @@
 
 <!-- Row 2 -->
 
-<div class="grid_10">
+<div class="grid_16">
 {% include "nav.html" %}
+</div>
 <div class="clear"></div>
 
+<div class="grid_11">
 <div id="content">
 <div class="contentsep">
+{% block secondary_content %}
+{% autoescape off %}
+{{ secondary_content }}
+{% endautoescape %}
+{% endblock secondary_content %}
+
 
 {% block content %}
 {% autoescape off %}
@@ -50,15 +58,26 @@
 </div>
 </div>
 </div>
+<div class="grid_5" id="sidebar">
+	<h3>Sunday Service</h3>
+	<p>
+		Where: <strong><a href="http://j.mp/9NN3Rk">Eakin Elementary School</a></strong><br />
+		When: <strong>Sunday 10:30AM</strong>
+	</p>
 
-<div class="grid_6"></div>
+	{% block sidebar %}
+	{% autoescape off %}
+	{{ sidebar }}
+	{% endautoescape %}
+	{% endblock sidebar %}
+</div>
 <div class="clear"></div>
 
 <!-- Row 3 -->
 
 <div class="grid_6">
 <div style="float:left">
-&copy 2010 Trinity Church of Nashville
+&copy; 2010 Trinity Church of Nashville
 </div>
 <div class="icontray">
 <a class="icon feedburner" href="http://feeds.feedburner.com/TrinityChurchNashville">Feedburner</a>
@@ -71,7 +90,6 @@
 <a href="mailto:mail@tcnash.org">mail@tcnash.org</a>
 </div>
 
-<div class="grid_6">&nbsp</div>
 <div class="clear"></div>
 
 <div class="grid_10">

@@ -10,6 +10,20 @@ a {
   text-decoration:none;
 }
 
+#sidebar {
+	font-size:12px;
+	background-color: #eee;
+	padding: 10px 0 10px 0;
+	margin-top: 10px;
+}
+#sidebar h1, #sidebar h2, #sidebar h3, #sidebar h4, #sidebar p, #sidebar ul, #sidebar ol {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#sidebar h3 {
+	font-size:14px;
+}
+
 #map {
   margin:10px 0 20px 0;
 }
@@ -26,7 +40,7 @@ a {
 }
 
 #title a img {
-  margin:0 5px -10px 0;
+  margin:0 10px -20px 0;
 }
 
 #title a:visited {
@@ -38,12 +52,12 @@ a {
 }
 
 #signup #response {
-  margin:44px 0 0 0;
+  margin:34px 0 0 0;
   text-align:right;
 }
 
 #signup input {
-  margin:44px 0 0 0;
+  margin:34px 0 0 0;
   border:1px solid lightgrey;
   font-style:oblique;
   font-family:Georgia, 'Times New Roman', Times, Serif;
@@ -119,7 +133,7 @@ span.address {
 }
 
 #nav ul.nav-ul:hover, #nav ul.active {
-  border-bottom:1px solid grey;
+/*  border-bottom:1px solid grey;*/
 }
 
 #nav li.menu-head:hover {

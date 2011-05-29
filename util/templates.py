@@ -18,17 +18,26 @@ def template_viewer(request, path):
     template = ""
     if path == "":
         template = "index.html"
+        try:
+            secondary_content = markdown_path(os.path.join(settings.USER_TEMPLATE_ROOT, "welcome.txt"))
+        except IOError:
+            secondary_content = ""
     else:
         if path.endswith(".html"):
             template = path
+        secondary_content = ""
         ## Let's use html suffixes for now.
         ## else:
         ##     template = path + ".html"
 
     content = mark_down_template(template)
+    try:
+        sidebar = markdown_path(os.path.join(settings.USER_TEMPLATE_ROOT, "events.txt"))
+    except IOError:
+        sidebar = ""
 
     try:
-        return render_to_response(template, {'content':content},
+        return render_to_response(template, {'content':content,'secondary_content':secondary_content,'sidebar':sidebar},
                                   context_instance=RequestContext(request))
     except TemplateDoesNotExist:
         if isinstance(content, Exception):
