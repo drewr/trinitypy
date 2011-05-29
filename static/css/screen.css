@@ -159,8 +159,32 @@ span.address {
   padding:0;
 }
 
-a.feedicon img {
-  margin-bottom:-1px;
+a.icon {
+  display:block;
+  float:left;
+  margin:0 0 0 3px;
+  height:16px;
+  width:16px;
+  text-indent:-9999px;
+}
+
+a.feedburner {
+  background:url("/img/feed-icon-16x16.png") no-repeat;
+}
+
+a.facebook {
+  background:url("/img/facebook.png") no-repeat;
+}
+
+a.twitter {
+  background:url("/img/twitter-2.png") no-repeat;
+}
+
+.icontray {
+  float:left;
+  width:57px;
+  height:18px;
+  padding:2px 0 0 0;
 }
 
 #content a:hover {
