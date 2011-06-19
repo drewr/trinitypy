@@ -29,7 +29,7 @@
    WSGIScriptAlias / _CONFIGROOT_/wsgi/run-wsgi
 
    Alias /adminmedia _PROJECTROOT_/django/contrib/admin/media
-   Alias /files/ /home/trinity/Dropbox/Trinity-WWW/www.tcnash.org/files/
+   Alias /files/ _TEMPLATEROOT_/files/
    AliasMatch ^/(.*\.(ico|jpg|gif|png|js|css|txt|php|pdf|wma|mp3))$ _DOCUMENTROOT_/$1
 
    RewriteEngine On
