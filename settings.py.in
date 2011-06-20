@@ -1,4 +1,5 @@
 from __settings__ import *
+from __key__ import *
 
 DEBUG = False
 

@@ -52,9 +52,6 @@ MEDIA_URL = ""
 # Examples: "http://foo.com/media/", "/media/".
 ADMIN_MEDIA_PREFIX = "/adminmedia/"
 
-# Make this unique, and don"t share it with anybody.
-SECRET_KEY = "$kljasXXXXXXXXXXYYYYYYYlkads+kljhp+c$sd$yqov7p+c+v4iz"
-
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
     "django.template.loaders.filesystem.load_template_source",
@@ -98,11 +95,11 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     "common.context_processors.url",
 )
 
-CAMPAIGN_MONITOR_KEY = "332f23331f81b8b7c6532be6a92a85ed";
-CAMPAIGN_MONITOR_CLIENT = "1a5af9fea1a6b497aae1c494dca1c1c7"
-CAMPAIGN_MONITOR_URL = 'http://api.createsend.com/api/api.asmx'
-CAMPAIGN_MONITOR_NAMESPACE = 'http://api.createsend.com/api/'
-CAMPAIGN_MONITOR_LIST = "2c3ac30475164264dde3dfae5a973b88";
+CAMPAIGN_MONITOR_KEY       = "..."
+CAMPAIGN_MONITOR_CLIENT    = "..."
+CAMPAIGN_MONITOR_URL       = "..."
+CAMPAIGN_MONITOR_NAMESPACE = "..."
+CAMPAIGN_MONITOR_LIST      = "..."
 
 APPEND_SLASH = False
 

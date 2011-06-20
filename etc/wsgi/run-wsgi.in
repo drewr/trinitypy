@@ -1,6 +1,7 @@
 import os, sys
 sys.path.append('_CURRENT_')
 sys.path.append('_CURRENT_/lib')
+sys.path.append('_PROJECTBASE_')
 os.environ['DJANGO_SETTINGS_MODULE'] = 'settings'
 
 import django.core.handlers.wsgi
