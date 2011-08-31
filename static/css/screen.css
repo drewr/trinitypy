@@ -11,27 +11,19 @@ a {
 }
 
 #sidebar {
-	font-size:12px;
-	background-color: #eee;
-	padding: 10px 0 10px 0;
-	margin-top: 10px;
-}
-#sidebar h1, #sidebar h2, #sidebar h3, #sidebar h4, #sidebar p, #sidebar ul, #sidebar ol {
-	margin-left: 20px;
-	margin-right: 20px;
-}
-#sidebar h3 {
-	font-size:14px;
+  font-size:0.8em;
+  background-color: #eee;
+  border:1px solid #ddd;
 }
 
 #map {
-  margin:10px 0 20px 0;
+  margin:0 auto;
 }
 
-#map a {
+#map small a {
   font-size:0.9em;
   font-style:oblique;
-  color:grey;
+  color:#aaa;
 }
 
 #title a {
@@ -80,6 +72,10 @@ span.address {
 .contentsep {
   padding-top:10px;
   margin-bottom:20px;
+}
+
+.sidebarsep {
+  margin:20px;
 }
 
 #nav li.menu-head a {

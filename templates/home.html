@@ -1,0 +1,13 @@
+{% extends "base.html"%}
+
+{% block sidebar %}
+{% autoescape off %}
+{{ sidebar }}
+{% endautoescape %}
+
+<!-- Note: iwloc= removes info window. http://mapki.com/wiki/Google_Map_Parameters -->
+<div id="map">
+<iframe width="240" height="240" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2500+Fairfax+Avenue,+Nashville,+TN&amp;aq=&amp;sll=36.150449,-86.796395&amp;sspn=0.040267,0.058622&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=2500+Fairfax+Ave,+Nashville,+Davidson,+Tennessee+37212&amp;ll=36.139122,-86.804867&amp;spn=0.033272,0.041027&amp;t=p&amp;z=13&amp;iwloc=&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2500+Fairfax+Avenue,+Nashville,+TN&amp;aq=&amp;sll=36.150449,-86.796395&amp;sspn=0.040267,0.058622&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=2500+Fairfax+Ave,+Nashville,+Davidson,+Tennessee+37212&amp;ll=36.139122,-86.804867&amp;spn=0.033272,0.041027&amp;t=p&amp;z=13&amp;iwloc=" style="text-align:left">View Larger Map</a></small>
+</div>
+
+{% endblock sidebar %}

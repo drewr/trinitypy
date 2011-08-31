@@ -42,34 +42,30 @@
 <div class="grid_11">
 <div id="content">
 <div class="contentsep">
-{% block secondary_content %}
-{% autoescape off %}
-{{ secondary_content }}
-{% endautoescape %}
-{% endblock secondary_content %}
-
-
 {% block content %}
 {% autoescape off %}
 {{ content }}
 {% endautoescape %}
 {% endblock content %}
+</div>
+</div>
+</div>
+<div class="grid_5">
+<div id="sidebar">
+<div class="sidebarsep">
+{% block sidebar %}
+{% autoescape off %}
+{{ sidebar }}
+{% endautoescape %}
+{% endblock sidebar %}
 
+{% block upcoming %}
+{% autoescape off %}
+{{ upcoming }}
+{% endautoescape %}
+{% endblock upcoming %}
 </div>
 </div>
-</div>
-<div class="grid_5" id="sidebar">
-	<h3>Sunday Service</h3>
-	<p>
-		Where: <strong><a href="http://j.mp/9NN3Rk">Eakin Elementary School</a></strong><br />
-		When: <strong>Sunday 10:30AM</strong>
-	</p>
-
-	{% block sidebar %}
-	{% autoescape off %}
-	{{ sidebar }}
-	{% endautoescape %}
-	{% endblock sidebar %}
 </div>
 <div class="clear"></div>
 
