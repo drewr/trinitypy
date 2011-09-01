@@ -3,6 +3,16 @@ body {
   font-size:15px;
 }
 
+h2,h3,h4,h5 {
+  font-family:Trebuchet MS;
+  text-transform:uppercase;
+  font-weight:normal;
+  color:#776729; 
+  color:#af9b2a; 
+  color:#b19d32; 
+  margin:0 0 3px 0;
+}
+
 a {
   color:#9e8938; 
   color:#776729; 
@@ -13,7 +23,7 @@ a {
 #sidebar {
   font-size:0.8em;
   background-color: #eee;
-  border:1px solid #ddd;
+  border:1px solid #ccc;
 }
 
 #map {
@@ -201,16 +211,6 @@ a.twitter {
   text-decoration:underline;
 }
 
-#content h2,h3,h4,h5 {
-  font-family:Trebuchet MS;
-  text-transform:uppercase;
-  font-weight:normal;
-  color:#776729; 
-  color:#af9b2a; 
-  color:#b19d32; 
-  margin:0 0 3px 0;
-}
-
 #content h2 {
   letter-spacing:3px;
   font-size:1.5em;
@@ -223,6 +223,18 @@ a.twitter {
 
 #content h4 {
   letter-spacing:2px;
+  font-size:.9em;
+}
+
+#sidebar h2 {
+  font-size:1.5em;
+}
+
+#content h3 {
+  font-size:1em;
+}
+
+#content h4 {
   font-size:.9em;
 }
 

@@ -47,6 +47,13 @@
 {{ content }}
 {% endautoescape %}
 {% endblock content %}
+
+{% if request.path == "/" %}
+{% autoescape off %}
+{{ upcoming }}
+{% endautoescape %}
+{% endif %}
+
 </div>
 </div>
 </div>
@@ -59,11 +66,11 @@
 {% endautoescape %}
 {% endblock sidebar %}
 
-{% block upcoming %}
+{% if request.path != "/" %}
 {% autoescape off %}
 {{ upcoming }}
 {% endautoescape %}
-{% endblock upcoming %}
+{% endif %}
 </div>
 </div>
 </div>
